@@ -6,3 +6,6 @@ while(distance >= least){
 
 }
 console.log("flight is arrived");
+
+    
+
