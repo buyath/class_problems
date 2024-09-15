@@ -1,7 +1,3 @@
-const numbers = [175,50,25];
-const total = numbers.reduce(myfunc);
-function myfunc(sum,n){
-    return sum - n 
-
-}
-console.log(total)
+var num = [1,2,3,4,5];
+var sumof = num.reduce((s,n) => s + n );
+console.log(sumof);
