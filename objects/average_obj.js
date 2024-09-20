@@ -15,4 +15,4 @@ const student = {
 
 student.average();
 
-console.log(student.address.streetname)
+console.log(student.address.streetname);
