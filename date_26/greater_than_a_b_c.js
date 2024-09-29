@@ -8,3 +8,4 @@ if(b > a && b > c){
 else{
     console.log(a);
 }
+
