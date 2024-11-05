@@ -14,4 +14,4 @@ function greaterthan_fifteen(arr){
         return emp
     }
 };
-console.log(greaterthan_fifteen([15, 15, 15, 25, 30]))
+console.log(greaterthan_fifteen([15, 15, 15, 25, 30]));
